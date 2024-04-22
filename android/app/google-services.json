@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "570733993714",
+    "project_id": "aqua-38d4a",
+    "storage_bucket": "aqua-38d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570733993714:android:a4823e79665daf8702fa6b",
+        "android_client_info": {
+          "package_name": "com.example.aqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570733993714-a3di98gsavigg27rpjvlobv95jfeeebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDeBFlBNy_k8fQOZb9QLKmd2XkfilLY_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570733993714-a3di98gsavigg27rpjvlobv95jfeeebk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570733993714-217g02dvdcpvlqgv77lootlq9amku9qb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aqua.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
